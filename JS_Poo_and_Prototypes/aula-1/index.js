@@ -19,7 +19,7 @@ function produto(nome, preco, estoque) {
       enumerable: true, // mostra a chave
       value: preco, // valor
       writable: true, // controla se pode ou n ser alterado
-      configurable: true, // configuravel
+      configurable: true, // configurável
     },
   });
 }
